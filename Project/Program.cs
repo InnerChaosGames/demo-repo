@@ -1,4 +1,4 @@
-﻿namespace Project;
+namespace Project;
 
 class Program
 {
@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Feature2");
+        Console.WriteLine("Feature3");
     }
 }
